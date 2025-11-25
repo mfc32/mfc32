@@ -17,10 +17,35 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="30" height="30"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
 
-### 💻 Programming Languages I’ve Worked With
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js" width="30" height="30"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/>
+---
+
+### 💻 My Skills
+
+**JavaScript**  
+`██████████ 100%`  
+
+**HTML5**  
+`██████████ 100%`  
+
+**CSS3**  
+`████████░░ 80%`  
+
+**React**  
+`████████░░ 80%`  
+
+**C#**  
+`████████░░ 80%`  
+
+**Python**  
+`██████░░░░ 60%`  
+
+**Java**  
+`████████░░ 80%`  
+
+**SQLite**  
+`██████░░░░ 60%`  
+
+---
 
 ### 📫 How to Reach Me
 <a href="mailto:celikfurkanmehmet@gmail.com">
